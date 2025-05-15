@@ -1,5 +1,4 @@
 streamlit
-mysql.connector-python
+mysql-connector-python
 bcrypt
 pandas
-base64
